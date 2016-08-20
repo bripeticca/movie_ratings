@@ -59,6 +59,6 @@ when "done"
     puts "You will now exit."
 
 else
-    "Error: please match one of the commands listed."
+    puts "Error: please match one of the commands listed."
 end
 end
